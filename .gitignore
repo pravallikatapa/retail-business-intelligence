@@ -1,0 +1,4 @@
+.vscode/
+__pycache__/
+*.pyc
+Cleaned_Data/Sales_Fact_SQL.csv
